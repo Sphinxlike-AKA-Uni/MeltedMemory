@@ -3,6 +3,9 @@ Glitch Art Script
 
 ##### Just a simple script that uses an (incomplete) heap sort algorithm with the arrays of pixels of an image or gif
 
+### [Download Windows Binary](https://github.com/Sphinxlike-AKA-Uni/MeltedMemory/releases/)
+
+
 # Usage
 ```
 ./MeltedMemory <filename>
